@@ -1,0 +1,6 @@
+Criando banco dados SQL Azure
+Para criar uma instância, antes deve abrir um banco de dados, defina nome, versão e as opções de configuração.
+Seleciona o servidor simbólico, localização West US 3, seleciona você como administrador - clica em OK
+Selecionar modelo de redundância: armazenamento de backup com redundância geográfica.
+No final da página terá o descritivo de custos com o serviço.
+Clicar em revisar + criar
